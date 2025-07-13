@@ -5,5 +5,5 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.overlay.eqs">
-    <overlay android:targetPackage="android" android:isStatic="true" android:priority="600"/>
+    <overlay android:targetPackage="android" android:isStatic="true" android:priority="999"/>
 </manifest>

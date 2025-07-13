@@ -29,7 +29,7 @@ PRODUCT_NAME := lineage_eqs
 PRODUCT_DEVICE := eqs
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := Edge 30 Ultra
+PRODUCT_MODEL :=  Edge 30 Ultra
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
